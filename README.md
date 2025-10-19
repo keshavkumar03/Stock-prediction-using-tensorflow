@@ -20,7 +20,7 @@ In this project, we use **LSTM**, a type of RNN that overcomes the *vanishing gr
 
 ## How to Run
 1️⃣ Clone this repository
-git clone https://github.com/keshavkumar-03/stock-price-prediction-lstm.git
+git clone https://github.com/keshavkumar03/Stock-prediction-using-tensorflow.git
 cd stock-price-prediction-lstm
 
 2️⃣ Install dependencies
@@ -34,7 +34,11 @@ Prediction and trend plots generated automatically
 💡 Future Improvements
 
 -Add multi-feature training (e.g., open, high, low, volume)
+
 -Implement Bidirectional LSTMs or GRUs
+
 -Integrate real-time stock data using APIs (Yahoo Finance / Alpha Vantage)
+
 -Deploy as a Streamlit or Flask web app
+
 
